@@ -1,7 +1,7 @@
 # Hi 👋, I'm mateustavares12
 
 
-### Full-Stack Developer | Blockchain Enthusiast | Web2 + Web3 Engineeer
+### AI Full-Stack Developer | Blockchain Enthusiast | Web2 + Web3 Engineeer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateustavares12&label=Profile%20views&color=0e75b6&style=flat" alt="mateustavares12" /> </p>
 
