@@ -16,13 +16,6 @@
 
 ## 🛠️ Tech Stack
 
-### Blockchain & Web3
-- Solidity / Smart Contracts
-- Web3.js / Ethers.js
-- Hardhat / Truffle
-- MetaMask Integration
-- IPFS / Decentralized Storage
-
 ### Frontend
 - React.js
 - Vue.js
@@ -36,6 +29,28 @@
 - Python
 - RESTful APIs
 - GraphQL
+
+###🔹 Artificial Intelligence & Machine Learning:
+•LLM Integrations (OpenAI GPT-3.5/GPT-4/GPT-4o, Meta Llama-3, Claude, Google Gemini)
+•LangChain, RAG, GraphRAG, AI Agents, Chatbots
+•Image & Media Generation (DALL-E, Stable Diffusion, Midjourney, DeepAI)
+•Audio Solutions (Whisper, DeepGram, ElevenLabs, Play.ht)
+•PyTorch, TensorFlow
+
+###🔹 API & Third-Party Integrations:
+•Payment Gateways: Stripe, PayPal, Razorpay, Braintree, Authorize.Net, PayU
+•Google Suite: Sheets, Calendar, Drive, Gmail
+•Communication: WhatsApp Business, Slack, Telegram, Discord, Twilio, Zoom, Skype, Teams
+•Microsoft Ecosystem: Graph API (Outlook, Teams, SharePoint)
+•Social Media APIs: Twitter (X), LinkedIn, Facebook, Instagram, TikTok, •Snapchat, Pinterest, Reddit, YouTube
+•CRM & ERP: Salesforce, HubSpot, Zoho, Odoo, QuickBooks, Xero
+•E-commerce: Shopify, WooCommerce, Magento, BigCommerce, Amazon, eBay
+•Workflow & Automation: Zapier, Make.com, n8n, Airtable, Notion
+
+###🔹 Additional Capabilities:
+•Data scraping and automated tools
+•Workflow optimization & custom API development
+•Technical consulting & systems architecture
 
 ### DevOps & Tools
 - Git / GitHub
